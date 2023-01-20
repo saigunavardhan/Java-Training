@@ -1,8 +1,5 @@
 package FunctionalInterfaces;
 
-import java.util.Arrays;
-import java.util.List;
-
 public class Products {
     private int id;
     private String name;
